@@ -1,10 +1,9 @@
 # Hi, I'm 0zz5
 
-![Roblox Scripter](https://shields.io)
-![Systems](https://shields.io)
+![Roblox Scripter](https://img.shields.io/badge/Roblox-Scripter-red?logo=roblox)
+![Systems](https://img.shields.io/badge/Systems-Developer-blue)
 
-
-Roblox scripter (Luau). I build systems for game, I can develop modules, code.
+Roblox scripter (Luau). I build systems for games, develop modules, and write code.
 
 ## What I work with
 
@@ -16,4 +15,4 @@ Roblox scripter (Luau). I build systems for game, I can develop modules, code.
 
 Feel free to open an issue on any of my repos, or reach out here on GitHub.
 
-Contact my discord if you want. @cowuzie
+Discord: @cowuzie
