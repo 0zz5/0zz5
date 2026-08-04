@@ -15,4 +15,4 @@ Roblox scripter (Luau). I build systems for games, develop modules, and write co
 
 Feel free to open an issue on any of my repos, or reach out here on GitHub.
 
-Discord: @cowuzie
+Contact my discord if you want: @cowuzie
