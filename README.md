@@ -1,12 +1,12 @@
 # Hi, I'm 0zz5
 
-Roblox scripter (Luau). I build systems for games, I can develop modules, code.
+Roblox scripter (Luau). I build systems for games — I can develop modules, code.
 
 ## What I work with
 
 - **Luau** (Roblox scripting)
 - Rojo for syncing code into Studio
-- VSB.
+- Visual Studio Code
 
 ## Contact
 
